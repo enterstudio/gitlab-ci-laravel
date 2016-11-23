@@ -7,8 +7,7 @@ Docker images for GitLab CI runner built on top of the [official PHP images](htt
 - [`7.0` (_7.0/Dockerfile_)](https://github.com/Rias500/gitlab-ci-laravel/blob/master/7.0/Dockerfile)
 
 ## Installed extensions
-The following modules and extensions have been enabled,
-in addition to those you can already find in the [official PHP image](https://hub.docker.com/r/_/php/):
+The following modules and extensions have been enabled, in addition to those you can already find in the [official PHP image](https://hub.docker.com/r/_/php/):
 
 - `mcrypt`
 - `mbstring`
